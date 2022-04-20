@@ -1,0 +1,2 @@
+# ematiq
+nextjs static websites
